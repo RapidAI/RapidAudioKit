@@ -1,7 +1,3 @@
-# RapidAudioKit
-It's for the repository of audio resampling tools 
+For windows:
 
-It's under commercial license.
-
-
-It supports to extract audio from a video, resample an audio and cut an audio to several clips with VAD.
+being compatible with ffmepg 5.0 release ( relase edition of SDK)
