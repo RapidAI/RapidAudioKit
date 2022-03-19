@@ -10,3 +10,9 @@ being compatible with ffmepg 5.0 release ( relase edition of SDK)
 - To extract  audio channels  from a video.
 - resample an audio file.
 - cut off an audio file with VAD 
+
+
+## Caution
+Dual license, GPL and commercial license.
+
+ Not for commercial purpose if you use it with GPL license.
