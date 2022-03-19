@@ -16,3 +16,6 @@ being compatible with ffmepg 5.0 release ( relase edition of SDK)
 Dual license, GPL and commercial license.
 
  Not for commercial purpose if you use it with GPL license.
+
+
+For a commercial license, please contact znsoft@163.com
