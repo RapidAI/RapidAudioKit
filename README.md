@@ -7,6 +7,6 @@ being compatible with ffmepg 5.0 release ( relase edition of SDK)
 
 
 ## Featues:
-- To extract  audio from a video.
+- To extract  audio channels  from a video.
 - resample an audio file.
 - cut off an audio file with VAD 
