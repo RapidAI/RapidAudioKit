@@ -13,7 +13,7 @@ being compatible with ffmepg 5.0 release ( relase edition of SDK)
 
 
 ## Caution
-Dual license, GPL and commercial license.
+Dual licenses, GPL and commercial license.
 
  Not for commercial purpose if you use it with GPL license.
 
